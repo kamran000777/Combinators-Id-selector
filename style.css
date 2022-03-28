@@ -15,6 +15,7 @@ min-height: 1000px;
 }
 .left-section{
       background-color: #abd699;
+    grid-column:span 1;
 }
 .left-content{
       padding: 1rem;
