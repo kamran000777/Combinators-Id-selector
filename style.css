@@ -89,6 +89,9 @@ li{
       background-color: white;
       border-radius: 5px;
 }
+.right-section{
+    grid-column:span 1/span 2;
+}
 .right-main-content{
       padding: 2rem 3rem;
 }
@@ -150,6 +153,7 @@ about,experience,education,project{
 }
 @media screen and (max-width:647px) {
       .main-content{
+          display:grid;
             grid-template-columns: repeat(1,1fr);
       }
       
