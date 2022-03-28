@@ -151,7 +151,7 @@ about,experience,education,project{
 .company{
       width: 18%;
 }
-@media screen and (max-width:674px) {
+@media screen and (min-width:0px)and(max-width:673px) {
       .main-content{
           display:grid;
             grid-template-columns: repeat(1,1fr);
