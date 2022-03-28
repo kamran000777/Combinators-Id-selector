@@ -24,7 +24,7 @@ min-height: 1000px;
       background-image: url("gettyimages-1146739180-612x612.jpg");
       background-size: cover;
       background-repeat: no-repeat;
-      height: 100px;
+      height: auto;
       width: 60%;
       border: 5px solid white;
       border-radius: 30px;
