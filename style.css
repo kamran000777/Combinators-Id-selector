@@ -7,11 +7,11 @@
 }
 
 .main-content{
-display: grid;
-margin: 20px;
-grid-template-columns: 300px 700px;
-width: 90%;
 min-height: 1000px;
+width: 90%;
+margin: 20px auto;
+display: grid;
+grid-template-columns: 300px 700px;
 }
 .left-section{
       background-color: #abd699;
